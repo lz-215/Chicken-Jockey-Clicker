@@ -1,0 +1,39 @@
+<!-- 网站地图 由ai根据自行生成 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 首页 -->
+  <url>
+    <loc>https://azgames.io/</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- 游戏主页面示例 -->
+  <url>
+    <loc>https://azgames.io/games</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Chicken Jockey Clicker 游戏详情页示例 -->
+  <url>
+    <loc>https://azgames.io/chicken-jockey-clicker</loc>
+    <lastmod>52025-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- 关于我们页面示例 -->
+  <url>
+    <loc>https://azgames.io/about</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <!-- 联系我们页面示例 -->
+  <url>
+    <loc>https://azgames.io/contact</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset> 
